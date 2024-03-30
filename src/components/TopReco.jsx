@@ -2,7 +2,7 @@ import React from 'react'
 
 const TopReco = () => {
   return (
-    <div className='min-h-screen'>TopReco</div>
+    <div className='min-h-screen'></div>
   )
 }
 
